@@ -1,5 +1,5 @@
-import GraficoVendasPorBairro from './components/GraficoVendasPorBairro';
-import GraficoVendasPorSemana from './components/GraficoVendasPorSemana';
+import GraficoVendasPorBairro from './pages/GraficoVendasPorBairro';
+import GraficoVendasPorSemana from './pages/GraficoVendasPorSemana';
 
 function App() {
   return (
