@@ -14,6 +14,7 @@
 ### Linux / WSL / MacOS
 
 ```bash
+cd .\graficos\imovei_api\
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -26,6 +27,7 @@ python manage.py runserver
 ### Windows (cmd ou PowerShell)
 
 ```bash
+cd .\graficos\imovei_api\
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
